@@ -1,9 +1,9 @@
-#Amazon Sales Data Analysis
-##Project Overview
+# Amazon Sales Data Analysis
+## Project Overview
 
 This project focuses on analyzing an Amazon Sales Report to extract meaningful insights related to sales performance, product demand, customer behavior, and geographical distribution. The analysis uses Python and data analysis techniques to support data-driven business decision-making.
 
-##Objectives
+## Objectives
 
 Analyze overall sales trends and performance
 
@@ -17,7 +17,7 @@ Explore geographical sales distribution
 
 Provide actionable business recommendations
 
-##Dataset
+## Dataset
 
 Source: Amazon Sales Report (CSV file)
 
@@ -53,7 +53,7 @@ Matplotlib – Data visualization
 
 Jupyter Notebook
 
-##Analysis Performed
+## Analysis Performed
 
 Data cleaning (missing values, duplicates, date formatting)
 
@@ -67,7 +67,7 @@ Customer and geographical segmentation
 
 KPI calculation (total sales, average order value, top regions)
 
-##Key Insights
+## Key Insights
 
 Sales are driven by a limited number of high-performing categories and styles
 
@@ -79,7 +79,7 @@ One fulfillment method contributes significantly to revenue and order volume
 
 Some products are slow-moving and require inventory optimization
 
-##Recommendations
+## Recommendations
 
 Increase inventory for high-demand products and sizes
 
@@ -91,7 +91,7 @@ Reduce stock for slow-moving products
 
 Use sales trends to plan promotions during peak periods
 
-##Final Result
+## Final Result
 
 The project delivers actionable, data-driven insights that help optimize sales strategy, inventory management, customer experience, and overall business performance. It demonstrates how data analysis can support better decision-making and revenue growth in an e-commerce environment.
 
